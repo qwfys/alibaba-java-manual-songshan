@@ -1,2 +1,1 @@
-# alibaba-java-manual-songshan 
-Java manual of Songshan Mountain Edition for alibaba
+# Java manual of Songshan Mountain Edition for alibaba
